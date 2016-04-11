@@ -6,14 +6,14 @@
   </head>
   <body>
     <?php
-    echo '<button onclick="checkForm()">Toggle Data</button>
+    echo '<button onclick="toggleData()">Toggle Data</button>
     <div id="empty">
     </div>';
     ?>
     <script type="text/javascript">
       var xhttp;
       var toggle = 0;
-      function checkForm()
+      function toggleData()
       {
         if(xhttp == null)
         {
