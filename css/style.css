@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+}
+body {
+	background:linear-gradient(to bottom, #101010 , #369037);
+	text-align: center;
+	color: white;
+	font-family: "Verdana", Sans-serif;
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
